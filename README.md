@@ -6,9 +6,9 @@ Installation of 2014-theme by Sathish Kumar
 
 Download Plugin
 
-1.Make sure the folder is "classictheme"
+1.Make sure the folder is "2014-theme"
 
-2.Make sure there is start.php in mod/classictheme/
+2.Make sure there is start.php in mod/brighttheme/
 
 3.Enable it.
 
